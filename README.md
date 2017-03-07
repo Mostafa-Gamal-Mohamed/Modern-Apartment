@@ -1,6 +1,22 @@
 # Modern-Apartment
 
-    Used unity engine to create an Apartment scene and used Google VR to finish the project.
-    Managed to Create several chairs and tables. Also a globe animation.
-    there are an apk file for Android Phones.
-    to Work with it should import GoogleVR for Unity before Run
+
+    adding 3d model to ascene
+
+    moving -scaling-rotation3d models
+
+    deploying my Cardboard Viewer
+
+    creating matrial and assign texture
+
+    creating anmition and trigger them
+
+    creating lights and bake them
+
+    aptimizing a scene for top performance
+
+How you can Run App
+
+    download App and open it from unity Engine
+    Import GVR library (You Can Download it from this link https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.0.3)
+    from Assets go to Scene and chose the any Scene before Run
